@@ -1,7 +1,7 @@
 # Welcome to [Ethereal Engine](https://github.com/etherealengine/etherealengine)
 [EtherealEngine.org](https://www.etherealengine.org/)
 
-## [Documentation](https://etherealengine.github.io/ethereal-engine-docs/)
+## [Documentation](https://etherealengine.github.io/etherealengine-docs/)
 
 #### Getting Started
 ## [Download Control Center](https://github.com/EtherealEngine/etherealengine-control-center/releases)
