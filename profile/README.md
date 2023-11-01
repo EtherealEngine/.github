@@ -22,10 +22,3 @@ Built for the web, Ethereal Engine stands unparalled in the intersection of cutt
 # Ecosystem Projects
 
 ## [Universal Volumetric](https://github.com/etherealengine/Universal-Volumetric)
-
-
-## [Digital Beings](https://github.com/etherealengine/Digital-Beings)
-
-
-## [Blockchain-in-a-Box](https://github.com/etherealengine/Blockchain-in-a-Box)
-
