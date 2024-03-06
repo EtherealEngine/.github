@@ -1,8 +1,8 @@
-# Welcome to [Infinite Reality Engine](https://github.com/etherealengine/etherealengine)
+# Welcome to [Infinite Reality Engine (iR Engine)](https://github.com/etherealengine/etherealengine)
 FREE, OPEN & INTEROPERABLE IMMERSIVE WEB TECHNOLOGY
 Previously Ethereal Engine
 
-Built for the web, Ethereal Engine stands unparalled in the intersection of cutting edge immersive content creation, and full stack web tech and scalable infrastructure.
+Built for the web, iR Engine stands unparalled in the intersection of cutting edge immersive content creation, and full stack web tech and scalable infrastructure.
 
 [Our Community Site](https://www.etherealengine.org/)
 
